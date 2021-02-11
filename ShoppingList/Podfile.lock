@@ -1,0 +1,22 @@
+PODS:
+  - SCLAlertView (0.8)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+
+DEPENDENCIES:
+  - SCLAlertView (~> 0.8)
+  - SQLite.swift
+
+SPEC REPOS:
+  trunk:
+    - SCLAlertView
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+
+PODFILE CHECKSUM: 5e07a195df47936a3b9b09dd8f6d7c23dfdab98a
+
+COCOAPODS: 1.10.1
